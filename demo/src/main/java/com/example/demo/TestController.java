@@ -27,7 +27,7 @@ public class TestController {
 ////        System.out.println(formatTemplate.doFormat(hashMap));
 ////    }
     @Autowired
-    FormatTemplate formatTemplate;
+   private FormatTemplate formatTemplate;
 
     @GetMapping("/test")
     public String testFormat(){
