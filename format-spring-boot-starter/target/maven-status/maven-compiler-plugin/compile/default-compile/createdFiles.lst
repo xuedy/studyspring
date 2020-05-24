@@ -1,0 +1,6 @@
+org\example\format\StringFormatProcessor.class
+org\example\format\FormatProcessor.class
+org\example\format\JsonFormatProcessor.class
+org\example\FormatTemplate.class
+org\example\autoconfiguration\HelloProperties.class
+META-INF\spring-configuration-metadata.json

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee337bc5-cda6-411c-9560-33e775f2555f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJRhQTJ6qAoIHD5nx2zlVqKKxH" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitWorkSpace\java\designPattern\format-spring-boot-starter\src\main" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee337bc5-cda6-411c-9560-33e775f2555f" name="Default Changelist" comment="" />
+      <created>1590244828345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590244828345</updated>
+      <workItem from="1590244832101" duration="11304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590249525632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590249525632" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1590247027154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590247027154" />
+    <state x="457" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590248370775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590248370775" />
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590248372667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1590248372667" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1590283903431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590283903431" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1590283903430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590283903430" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1590283903430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590283903430" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1590283903430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590283903430" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1590246386172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590246386172" />
+    <state x="334" y="220" key="new project wizard" timestamp="1590250858317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="220" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590250858317" />
+  </component>
+</project>

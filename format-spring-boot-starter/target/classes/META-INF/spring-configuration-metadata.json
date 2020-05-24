@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "xuedy.hello.format",
+      "type": "org.example.autoconfiguration.HelloProperties",
+      "sourceType": "org.example.autoconfiguration.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xuedy.hello.format.info",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "org.example.autoconfiguration.HelloProperties"
+    }
+  ],
+  "hints": []
+}
